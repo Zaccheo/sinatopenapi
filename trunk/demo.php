@@ -3,6 +3,7 @@
  * 新浪微博开放平台调用类使用示例
  * 适用于PHP5及以上版本及安装curl扩展库
  * 使用HTTP普通鉴权(Basic Authentication)方式
+ * @copyright http://lvyaozu.sinaapp.com/
  */
 header("Content-type:text/html;charset=utf-8");
 require('SinaOpenApi.php');
