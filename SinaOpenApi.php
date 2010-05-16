@@ -1,4 +1,11 @@
 <?php
+/**
+ * 新浪微博开放平台接口调用处理类
+ * 此类只适用于PHP5环境及需要CURL扩展库支持
+ * 
+ * @copyright http://lvyaozu.sinaapp.com/
+ */
+
 class SinaOpenApi
 {
 	public $curl;
